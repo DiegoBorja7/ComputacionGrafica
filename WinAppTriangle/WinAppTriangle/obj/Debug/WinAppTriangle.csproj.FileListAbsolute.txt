@@ -1,0 +1,12 @@
+E:\CompuGrafica\WinAppTriangle\WinAppTriangle\bin\Debug\WinAppTriangle.exe.config
+I:\CompuGrafica\WinAppTriangle\WinAppTriangle\bin\Debug\WinAppTriangle.exe.config
+H:\CompuGrafica\WinAppTriangle\WinAppTriangle\bin\Debug\WinAppTriangle.exe.config
+H:\CompuGrafica\WinAppTriangle\WinAppTriangle\bin\Debug\WinAppTriangle.exe
+H:\CompuGrafica\WinAppTriangle\WinAppTriangle\bin\Debug\WinAppTriangle.pdb
+H:\CompuGrafica\WinAppTriangle\WinAppTriangle\obj\Debug\WinAppTriangle.frmTriangle.resources
+H:\CompuGrafica\WinAppTriangle\WinAppTriangle\obj\Debug\WinAppTriangle.Properties.Resources.resources
+H:\CompuGrafica\WinAppTriangle\WinAppTriangle\obj\Debug\WinAppTriangle.csproj.GenerateResource.Cache
+H:\CompuGrafica\WinAppTriangle\WinAppTriangle\obj\Debug\WinAppTriangle.csproj.CoreCompileInputs.cache
+H:\CompuGrafica\WinAppTriangle\WinAppTriangle\obj\Debug\WinAppTriangle.exe
+H:\CompuGrafica\WinAppTriangle\WinAppTriangle\obj\Debug\WinAppTriangle.pdb
+H:\CompuGrafica\WinAppTriangle\WinAppTriangle\obj\Debug\WinAppTriangle.csprojResolveAssemblyReference.cache

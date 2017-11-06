@@ -1,0 +1,20 @@
+C:\Users\Labs-DECC\Documents\compu gra\WinAppCircle\WinAppCircle\bin\Debug\WinAppCircle.exe.config
+E:\WinAppCircle\WinAppCircle\bin\Debug\WinAppCircle.exe.config
+E:\WinAppCircle\WinAppCircle\bin\Debug\WinAppCircle.exe
+E:\WinAppCircle\WinAppCircle\bin\Debug\WinAppCircle.pdb
+E:\WinAppCircle\WinAppCircle\obj\Debug\WinAppCircle.csprojResolveAssemblyReference.cache
+E:\WinAppCircle\WinAppCircle\obj\Debug\WinAppCircle.frmCircle.resources
+E:\WinAppCircle\WinAppCircle\obj\Debug\WinAppCircle.Properties.Resources.resources
+E:\WinAppCircle\WinAppCircle\obj\Debug\WinAppCircle.csproj.GenerateResource.Cache
+E:\WinAppCircle\WinAppCircle\obj\Debug\WinAppCircle.exe
+E:\WinAppCircle\WinAppCircle\obj\Debug\WinAppCircle.pdb
+H:\WinAppCircle\WinAppCircle\bin\Debug\WinAppCircle.exe.config
+H:\WinAppCircle\WinAppCircle\bin\Debug\WinAppCircle.exe
+H:\WinAppCircle\WinAppCircle\bin\Debug\WinAppCircle.pdb
+H:\WinAppCircle\WinAppCircle\obj\Debug\WinAppCircle.csprojResolveAssemblyReference.cache
+H:\WinAppCircle\WinAppCircle\obj\Debug\WinAppCircle.frmCircle.resources
+H:\WinAppCircle\WinAppCircle\obj\Debug\WinAppCircle.Properties.Resources.resources
+H:\WinAppCircle\WinAppCircle\obj\Debug\WinAppCircle.csproj.GenerateResource.Cache
+H:\WinAppCircle\WinAppCircle\obj\Debug\WinAppCircle.csproj.CoreCompileInputs.cache
+H:\WinAppCircle\WinAppCircle\obj\Debug\WinAppCircle.exe
+H:\WinAppCircle\WinAppCircle\obj\Debug\WinAppCircle.pdb
