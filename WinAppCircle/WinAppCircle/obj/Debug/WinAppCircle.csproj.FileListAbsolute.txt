@@ -18,3 +18,12 @@ H:\WinAppCircle\WinAppCircle\obj\Debug\WinAppCircle.csproj.GenerateResource.Cach
 H:\WinAppCircle\WinAppCircle\obj\Debug\WinAppCircle.csproj.CoreCompileInputs.cache
 H:\WinAppCircle\WinAppCircle\obj\Debug\WinAppCircle.exe
 H:\WinAppCircle\WinAppCircle\obj\Debug\WinAppCircle.pdb
+E:\CompuGrafica\WinAppCircle\WinAppCircle\bin\Debug\WinAppCircle.exe.config
+E:\CompuGrafica\WinAppCircle\WinAppCircle\obj\Debug\WinAppCircle.exe
+E:\CompuGrafica\WinAppCircle\WinAppCircle\obj\Debug\WinAppCircle.pdb
+E:\CompuGrafica\WinAppCircle\WinAppCircle\bin\Debug\WinAppCircle.exe
+E:\CompuGrafica\WinAppCircle\WinAppCircle\bin\Debug\WinAppCircle.pdb
+E:\CompuGrafica\WinAppCircle\WinAppCircle\obj\Debug\WinAppCircle.csprojResolveAssemblyReference.cache
+E:\CompuGrafica\WinAppCircle\WinAppCircle\obj\Debug\WinAppCircle.frmCircle.resources
+E:\CompuGrafica\WinAppCircle\WinAppCircle\obj\Debug\WinAppCircle.Properties.Resources.resources
+E:\CompuGrafica\WinAppCircle\WinAppCircle\obj\Debug\WinAppCircle.csproj.GenerateResource.Cache

@@ -28,19 +28,24 @@ namespace WinAppTriangle
             txtPerimeter.Text = "";
             txtSideA.Focus();
         }
-        private void ReadData()
+        private Boolean ReadData()
         {
+            Boolean flag;
             try
             {
                 mSideA = float.Parse(txtSideA.Text);
                 mSideB = float.Parse(txtSideB.Text);
                 mSideC = float.Parse(txtSideC.Text);
+                flag = true;
             }
             catch
             {
                 InitializeData();
-                MessageBox.Show("Error en el ingreso de datos !", "ERROR", MessageBoxButtons.OK, MessageBoxIcon.Error);                
+                MessageBox.Show("Error en el ingreso de datos !", "ERROR", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                flag = false;
             }
+
+            return flag;
         }     
         private void PerimeterTriangle()
         {
@@ -75,9 +80,13 @@ namespace WinAppTriangle
         }
         private void btnCalculate_Click(object sender, EventArgs e)
         {
-            ReadData();
-            PerimeterTriangle();
-            ExistenceTheorem();            
+            Boolean flag;
+            flag=ReadData();
+            if(flag)
+            { 
+                PerimeterTriangle();
+                ExistenceTheorem();
+            }
         }
         private void btnReset_Click(object sender, EventArgs e)
         {

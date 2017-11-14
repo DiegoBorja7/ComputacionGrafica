@@ -16,16 +16,11 @@ namespace WinAppCircle
         private float mRadius;
         private float mPerimeter, mArea;
 
-        
-
         //Constructor de la clase ((sirve para inicializar componentes,datos u objeto de una clase))
         public frmCircle()
         {
             InitializeComponent();
             this.InitializeData();
-            /*mRadius = 0.0f;
-            mPerimeter = 0.0f;
-            mArea = 0.0f;*/
         }
 
         //Funciones miembro - Metodos de la clase
@@ -72,7 +67,6 @@ namespace WinAppCircle
 
         private void btnExit_Click(object sender, EventArgs e)
         {
-            //Close();
             //this representa el formulario
             this.Close();
         }

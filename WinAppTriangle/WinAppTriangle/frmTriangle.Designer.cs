@@ -188,7 +188,7 @@
             // 
             this.btnExit.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.btnExit.Font = new System.Drawing.Font("Tw Cen MT Condensed Extra Bold", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnExit.ForeColor = System.Drawing.SystemColors.HotTrack;
+            this.btnExit.ForeColor = System.Drawing.Color.Red;
             this.btnExit.Location = new System.Drawing.Point(243, 33);
             this.btnExit.Name = "btnExit";
             this.btnExit.Size = new System.Drawing.Size(103, 42);
@@ -225,7 +225,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(404, 405);
+            this.ClientSize = new System.Drawing.Size(414, 391);
             this.Controls.Add(this.grbOutput);
             this.Controls.Add(this.grbProcess);
             this.Controls.Add(this.grbInput);
@@ -235,7 +235,6 @@
             this.MinimizeBox = false;
             this.Name = "frmTriangle";
             this.Text = "Triangulo";
-            //this.Load += new System.EventHandler(this.frmTriangle_Load);
             this.grbInput.ResumeLayout(false);
             this.grbInput.PerformLayout();
             this.grbOutput.ResumeLayout(false);
