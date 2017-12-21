@@ -1,0 +1,9 @@
+D:\Files\WinAppAstericsOVNI\WinAppAstericsOVNI\bin\Debug\WinAppAstericsOVNI.exe.config
+D:\Files\WinAppAstericsOVNI\WinAppAstericsOVNI\bin\Debug\WinAppAstericsOVNI.exe
+D:\Files\WinAppAstericsOVNI\WinAppAstericsOVNI\bin\Debug\WinAppAstericsOVNI.pdb
+D:\Files\WinAppAstericsOVNI\WinAppAstericsOVNI\obj\Debug\WinAppAstericsOVNI.csprojResolveAssemblyReference.cache
+D:\Files\WinAppAstericsOVNI\WinAppAstericsOVNI\obj\Debug\WinAppAstericsOVNI.grbOVNI.resources
+D:\Files\WinAppAstericsOVNI\WinAppAstericsOVNI\obj\Debug\WinAppAstericsOVNI.Properties.Resources.resources
+D:\Files\WinAppAstericsOVNI\WinAppAstericsOVNI\obj\Debug\WinAppAstericsOVNI.csproj.GenerateResource.Cache
+D:\Files\WinAppAstericsOVNI\WinAppAstericsOVNI\obj\Debug\WinAppAstericsOVNI.exe
+D:\Files\WinAppAstericsOVNI\WinAppAstericsOVNI\obj\Debug\WinAppAstericsOVNI.pdb

@@ -1,0 +1,99 @@
+C:\Users\Labs-DECC\Desktop\WinAppRegularPolygons\WinAppRegularPolygons\bin\Debug\WinAppRegularPolygons.exe.config
+E:\CompuGrafica\Aplicaciones\WinAppRegularPolygons\WinAppRegularPolygons\bin\Debug\WinAppRegularPolygons.exe.config
+E:\CompuGrafica\Aplicaciones\WinAppRegularPolygons\WinAppRegularPolygons\bin\Debug\WinAppRegularPolygons.exe
+E:\CompuGrafica\Aplicaciones\WinAppRegularPolygons\WinAppRegularPolygons\bin\Debug\WinAppRegularPolygons.pdb
+E:\CompuGrafica\Aplicaciones\WinAppRegularPolygons\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.csprojResolveAssemblyReference.cache
+E:\CompuGrafica\Aplicaciones\WinAppRegularPolygons\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.frmMenu.resources
+E:\CompuGrafica\Aplicaciones\WinAppRegularPolygons\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.Properties.Resources.resources
+E:\CompuGrafica\Aplicaciones\WinAppRegularPolygons\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.csproj.GenerateResource.Cache
+E:\CompuGrafica\Aplicaciones\WinAppRegularPolygons\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.exe
+E:\CompuGrafica\Aplicaciones\WinAppRegularPolygons\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.pdb
+E:\CompuGrafica\Aplicaciones\WinAppRegularPolygons\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.frmDecagon.resources
+E:\CompuGrafica\Aplicaciones\WinAppRegularPolygons\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.frmDodecagon.resources
+E:\CompuGrafica\Aplicaciones\WinAppRegularPolygons\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.frmEndecagon.resources
+E:\CompuGrafica\Aplicaciones\WinAppRegularPolygons\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.frmEneagon.resources
+E:\CompuGrafica\Aplicaciones\WinAppRegularPolygons\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.frmHexagon.resources
+E:\CompuGrafica\Aplicaciones\WinAppRegularPolygons\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.frmEquilateralTriangle.resources
+E:\CompuGrafica\Aplicaciones\WinAppRegularPolygons\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.frmHeptagon.resources
+E:\CompuGrafica\Aplicaciones\WinAppRegularPolygons\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.frmOctogon.resources
+E:\CompuGrafica\Aplicaciones\WinAppRegularPolygons\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.frmPentagon.resources
+E:\CompuGrafica\Aplicaciones\WinAppRegularPolygons\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.frmSquare.resources
+G:\CompuGrafica\WinAppRegularPolygons\WinAppRegularPolygons\bin\Debug\WinAppRegularPolygons.exe.config
+G:\CompuGrafica\WinAppRegularPolygons\WinAppRegularPolygons\bin\Debug\WinAppRegularPolygons.exe
+G:\CompuGrafica\WinAppRegularPolygons\WinAppRegularPolygons\bin\Debug\WinAppRegularPolygons.pdb
+G:\CompuGrafica\WinAppRegularPolygons\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.csprojResolveAssemblyReference.cache
+G:\CompuGrafica\WinAppRegularPolygons\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.frmDecagon.resources
+G:\CompuGrafica\WinAppRegularPolygons\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.frmDodecagon.resources
+G:\CompuGrafica\WinAppRegularPolygons\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.frmEndecagon.resources
+G:\CompuGrafica\WinAppRegularPolygons\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.frmEneagon.resources
+G:\CompuGrafica\WinAppRegularPolygons\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.frmEquilateralTriangle.resources
+G:\CompuGrafica\WinAppRegularPolygons\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.frmHeptagon.resources
+G:\CompuGrafica\WinAppRegularPolygons\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.frmHexagon.resources
+G:\CompuGrafica\WinAppRegularPolygons\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.frmMenu.resources
+G:\CompuGrafica\WinAppRegularPolygons\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.frmOctogon.resources
+G:\CompuGrafica\WinAppRegularPolygons\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.frmPentagon.resources
+G:\CompuGrafica\WinAppRegularPolygons\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.frmSquare.resources
+G:\CompuGrafica\WinAppRegularPolygons\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.Properties.Resources.resources
+G:\CompuGrafica\WinAppRegularPolygons\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.csproj.GenerateResource.Cache
+G:\CompuGrafica\WinAppRegularPolygons\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.csproj.CoreCompileInputs.cache
+G:\CompuGrafica\WinAppRegularPolygons\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.exe
+G:\CompuGrafica\WinAppRegularPolygons\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.pdb
+E:\CompuGrafica\WinAppRegularPolygons\WinAppRegularPolygons\bin\Debug\WinAppRegularPolygons.exe.config
+E:\CompuGrafica\WinAppRegularPolygons\WinAppRegularPolygons\bin\Debug\WinAppRegularPolygons.exe
+E:\CompuGrafica\WinAppRegularPolygons\WinAppRegularPolygons\bin\Debug\WinAppRegularPolygons.pdb
+E:\CompuGrafica\WinAppRegularPolygons\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.csprojResolveAssemblyReference.cache
+E:\CompuGrafica\WinAppRegularPolygons\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.frmDecagon.resources
+E:\CompuGrafica\WinAppRegularPolygons\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.frmDodecagon.resources
+E:\CompuGrafica\WinAppRegularPolygons\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.frmEndecagon.resources
+E:\CompuGrafica\WinAppRegularPolygons\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.frmEneagon.resources
+E:\CompuGrafica\WinAppRegularPolygons\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.frmEquilateralTriangle.resources
+E:\CompuGrafica\WinAppRegularPolygons\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.frmHeptagon.resources
+E:\CompuGrafica\WinAppRegularPolygons\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.frmHexagon.resources
+E:\CompuGrafica\WinAppRegularPolygons\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.frmMenu.resources
+E:\CompuGrafica\WinAppRegularPolygons\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.frmOctogon.resources
+E:\CompuGrafica\WinAppRegularPolygons\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.frmPentagon.resources
+E:\CompuGrafica\WinAppRegularPolygons\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.frmSquare.resources
+E:\CompuGrafica\WinAppRegularPolygons\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.Properties.Resources.resources
+E:\CompuGrafica\WinAppRegularPolygons\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.csproj.GenerateResource.Cache
+E:\CompuGrafica\WinAppRegularPolygons\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.csproj.CoreCompileInputs.cache
+E:\CompuGrafica\WinAppRegularPolygons\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.exe
+E:\CompuGrafica\WinAppRegularPolygons\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.pdb
+E:\CompuGrafica\WinAppRegularPolygons(falta poner color en cada frm)\WinAppRegularPolygons\bin\Debug\WinAppRegularPolygons.exe.config
+E:\CompuGrafica\WinAppRegularPolygons(falta poner color en cada frm)\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.exe
+E:\CompuGrafica\WinAppRegularPolygons(falta poner color en cada frm)\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.pdb
+E:\CompuGrafica\WinAppRegularPolygons(falta poner color en cada frm)\WinAppRegularPolygons\bin\Debug\WinAppRegularPolygons.exe
+E:\CompuGrafica\WinAppRegularPolygons(falta poner color en cada frm)\WinAppRegularPolygons\bin\Debug\WinAppRegularPolygons.pdb
+E:\CompuGrafica\WinAppRegularPolygons(falta poner color en cada frm)\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.csprojResolveAssemblyReference.cache
+E:\CompuGrafica\WinAppRegularPolygons(falta poner color en cada frm)\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.frmDecagon.resources
+E:\CompuGrafica\WinAppRegularPolygons(falta poner color en cada frm)\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.frmDodecagon.resources
+E:\CompuGrafica\WinAppRegularPolygons(falta poner color en cada frm)\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.frmEndecagon.resources
+E:\CompuGrafica\WinAppRegularPolygons(falta poner color en cada frm)\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.frmEneagon.resources
+E:\CompuGrafica\WinAppRegularPolygons(falta poner color en cada frm)\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.frmEquilateralTriangle.resources
+E:\CompuGrafica\WinAppRegularPolygons(falta poner color en cada frm)\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.frmHeptagon.resources
+E:\CompuGrafica\WinAppRegularPolygons(falta poner color en cada frm)\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.frmHexagon.resources
+E:\CompuGrafica\WinAppRegularPolygons(falta poner color en cada frm)\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.frmMenu.resources
+E:\CompuGrafica\WinAppRegularPolygons(falta poner color en cada frm)\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.frmOctogon.resources
+E:\CompuGrafica\WinAppRegularPolygons(falta poner color en cada frm)\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.frmPentagon.resources
+E:\CompuGrafica\WinAppRegularPolygons(falta poner color en cada frm)\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.frmSquare.resources
+E:\CompuGrafica\WinAppRegularPolygons(falta poner color en cada frm)\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.Properties.Resources.resources
+E:\CompuGrafica\WinAppRegularPolygons(falta poner color en cada frm)\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.csproj.GenerateResource.Cache
+G:\CompuGrafica\WinAppRegularPolygons(falta poner color en cada frm)\WinAppRegularPolygons\bin\Debug\WinAppRegularPolygons.exe.config
+G:\CompuGrafica\WinAppRegularPolygons(falta poner color en cada frm)\WinAppRegularPolygons\bin\Debug\WinAppRegularPolygons.exe
+G:\CompuGrafica\WinAppRegularPolygons(falta poner color en cada frm)\WinAppRegularPolygons\bin\Debug\WinAppRegularPolygons.pdb
+G:\CompuGrafica\WinAppRegularPolygons(falta poner color en cada frm)\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.csprojResolveAssemblyReference.cache
+G:\CompuGrafica\WinAppRegularPolygons(falta poner color en cada frm)\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.frmDecagon.resources
+G:\CompuGrafica\WinAppRegularPolygons(falta poner color en cada frm)\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.frmDodecagon.resources
+G:\CompuGrafica\WinAppRegularPolygons(falta poner color en cada frm)\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.frmEndecagon.resources
+G:\CompuGrafica\WinAppRegularPolygons(falta poner color en cada frm)\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.frmEneagon.resources
+G:\CompuGrafica\WinAppRegularPolygons(falta poner color en cada frm)\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.frmEquilateralTriangle.resources
+G:\CompuGrafica\WinAppRegularPolygons(falta poner color en cada frm)\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.frmHeptagon.resources
+G:\CompuGrafica\WinAppRegularPolygons(falta poner color en cada frm)\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.frmHexagon.resources
+G:\CompuGrafica\WinAppRegularPolygons(falta poner color en cada frm)\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.frmMenu.resources
+G:\CompuGrafica\WinAppRegularPolygons(falta poner color en cada frm)\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.frmOctogon.resources
+G:\CompuGrafica\WinAppRegularPolygons(falta poner color en cada frm)\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.frmPentagon.resources
+G:\CompuGrafica\WinAppRegularPolygons(falta poner color en cada frm)\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.frmSquare.resources
+G:\CompuGrafica\WinAppRegularPolygons(falta poner color en cada frm)\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.Properties.Resources.resources
+G:\CompuGrafica\WinAppRegularPolygons(falta poner color en cada frm)\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.csproj.GenerateResource.Cache
+G:\CompuGrafica\WinAppRegularPolygons(falta poner color en cada frm)\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.csproj.CoreCompileInputs.cache
+G:\CompuGrafica\WinAppRegularPolygons(falta poner color en cada frm)\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.exe
+G:\CompuGrafica\WinAppRegularPolygons(falta poner color en cada frm)\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.pdb

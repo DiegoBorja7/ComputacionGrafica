@@ -1,0 +1,188 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{1F173E31-B0A7-41AA-BAF0-E4B8F2813990}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>WinAppRegularPolygons</RootNamespace>
+    <AssemblyName>WinAppRegularPolygons</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CDecagon.cs" />
+    <Compile Include="CDodecagon.cs" />
+    <Compile Include="CEndecagon.cs" />
+    <Compile Include="CEneagon.cs" />
+    <Compile Include="CEquilateralTriangle.cs" />
+    <Compile Include="CHeptagon.cs" />
+    <Compile Include="CHexagon.cs" />
+    <Compile Include="COctogon.cs" />
+    <Compile Include="CPentagon.cs" />
+    <Compile Include="CSquare.cs" />
+    <Compile Include="frmDecagon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDecagon.Designer.cs">
+      <DependentUpon>frmDecagon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDodecagon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDodecagon.Designer.cs">
+      <DependentUpon>frmDodecagon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEndecagon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEndecagon.Designer.cs">
+      <DependentUpon>frmEndecagon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEneagon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEneagon.Designer.cs">
+      <DependentUpon>frmEneagon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEquilateralTriangle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEquilateralTriangle.Designer.cs">
+      <DependentUpon>frmEquilateralTriangle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmHeptagon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmHeptagon.Designer.cs">
+      <DependentUpon>frmHeptagon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmHexagon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmHexagon.Designer.cs">
+      <DependentUpon>frmHexagon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMenu.Designer.cs">
+      <DependentUpon>frmMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmOctogon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmOctogon.Designer.cs">
+      <DependentUpon>frmOctogon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPentagon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPentagon.Designer.cs">
+      <DependentUpon>frmPentagon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSquare.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSquare.Designer.cs">
+      <DependentUpon>frmSquare.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmDecagon.resx">
+      <DependentUpon>frmDecagon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDodecagon.resx">
+      <DependentUpon>frmDodecagon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEndecagon.resx">
+      <DependentUpon>frmEndecagon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEneagon.resx">
+      <DependentUpon>frmEneagon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEquilateralTriangle.resx">
+      <DependentUpon>frmEquilateralTriangle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmHeptagon.resx">
+      <DependentUpon>frmHeptagon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmHexagon.resx">
+      <DependentUpon>frmHexagon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMenu.resx">
+      <DependentUpon>frmMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmOctogon.resx">
+      <DependentUpon>frmOctogon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPentagon.resx">
+      <DependentUpon>frmPentagon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSquare.resx">
+      <DependentUpon>frmSquare.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

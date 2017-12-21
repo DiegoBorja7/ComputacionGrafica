@@ -25,3 +25,17 @@ G:\CompuGrafica\WinAppGeometricShapesV2\WinAppGeometricShapesV2\obj\Debug\WinApp
 G:\CompuGrafica\WinAppGeometricShapesV2\WinAppGeometricShapesV2\obj\Debug\WinAppGeometricShapesV2.csproj.CoreCompileInputs.cache
 G:\CompuGrafica\WinAppGeometricShapesV2\WinAppGeometricShapesV2\obj\Debug\WinAppGeometricShapesV2.exe
 G:\CompuGrafica\WinAppGeometricShapesV2\WinAppGeometricShapesV2\obj\Debug\WinAppGeometricShapesV2.pdb
+C:\Users\Usuario\OneDrive - Escuela Politécnica del Ejército\ESPE\Computacion Grafica\CompuGrafica_Aplicaciones\WinAppGeometricShapesV2\WinAppGeometricShapesV2\bin\Debug\WinAppGeometricShapesV2.exe.config
+C:\Users\Usuario\OneDrive - Escuela Politécnica del Ejército\ESPE\Computacion Grafica\CompuGrafica_Aplicaciones\WinAppGeometricShapesV2\WinAppGeometricShapesV2\bin\Debug\WinAppGeometricShapesV2.exe
+C:\Users\Usuario\OneDrive - Escuela Politécnica del Ejército\ESPE\Computacion Grafica\CompuGrafica_Aplicaciones\WinAppGeometricShapesV2\WinAppGeometricShapesV2\bin\Debug\WinAppGeometricShapesV2.pdb
+C:\Users\Usuario\OneDrive - Escuela Politécnica del Ejército\ESPE\Computacion Grafica\CompuGrafica_Aplicaciones\WinAppGeometricShapesV2\WinAppGeometricShapesV2\obj\Debug\WinAppGeometricShapesV2.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\OneDrive - Escuela Politécnica del Ejército\ESPE\Computacion Grafica\CompuGrafica_Aplicaciones\WinAppGeometricShapesV2\WinAppGeometricShapesV2\obj\Debug\WinAppGeometricShapesV2.frmCircle.resources
+C:\Users\Usuario\OneDrive - Escuela Politécnica del Ejército\ESPE\Computacion Grafica\CompuGrafica_Aplicaciones\WinAppGeometricShapesV2\WinAppGeometricShapesV2\obj\Debug\WinAppGeometricShapesV2.frmMenu.resources
+C:\Users\Usuario\OneDrive - Escuela Politécnica del Ejército\ESPE\Computacion Grafica\CompuGrafica_Aplicaciones\WinAppGeometricShapesV2\WinAppGeometricShapesV2\obj\Debug\WinAppGeometricShapesV2.frmRectangle.resources
+C:\Users\Usuario\OneDrive - Escuela Politécnica del Ejército\ESPE\Computacion Grafica\CompuGrafica_Aplicaciones\WinAppGeometricShapesV2\WinAppGeometricShapesV2\obj\Debug\WinAppGeometricShapesV2.frmSquare.resources
+C:\Users\Usuario\OneDrive - Escuela Politécnica del Ejército\ESPE\Computacion Grafica\CompuGrafica_Aplicaciones\WinAppGeometricShapesV2\WinAppGeometricShapesV2\obj\Debug\WinAppGeometricShapesV2.frmTriangle.resources
+C:\Users\Usuario\OneDrive - Escuela Politécnica del Ejército\ESPE\Computacion Grafica\CompuGrafica_Aplicaciones\WinAppGeometricShapesV2\WinAppGeometricShapesV2\obj\Debug\WinAppGeometricShapesV2.Properties.Resources.resources
+C:\Users\Usuario\OneDrive - Escuela Politécnica del Ejército\ESPE\Computacion Grafica\CompuGrafica_Aplicaciones\WinAppGeometricShapesV2\WinAppGeometricShapesV2\obj\Debug\WinAppGeometricShapesV2.csproj.GenerateResource.Cache
+C:\Users\Usuario\OneDrive - Escuela Politécnica del Ejército\ESPE\Computacion Grafica\CompuGrafica_Aplicaciones\WinAppGeometricShapesV2\WinAppGeometricShapesV2\obj\Debug\WinAppGeometricShapesV2.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive - Escuela Politécnica del Ejército\ESPE\Computacion Grafica\CompuGrafica_Aplicaciones\WinAppGeometricShapesV2\WinAppGeometricShapesV2\obj\Debug\WinAppGeometricShapesV2.exe
+C:\Users\Usuario\OneDrive - Escuela Politécnica del Ejército\ESPE\Computacion Grafica\CompuGrafica_Aplicaciones\WinAppGeometricShapesV2\WinAppGeometricShapesV2\obj\Debug\WinAppGeometricShapesV2.pdb
